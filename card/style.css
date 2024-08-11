@@ -1,0 +1,29 @@
+body{
+ margin: 20px;
+ background-color: antiquewhite;
+}
+
+.avatar{
+  width: 150px;
+}
+
+.card{
+  margin-left: auto;
+  margin-right: auto;
+ width:400px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:#ddebfe;
+
+  gap: 20px;
+}
+.blue-border{
+  border-bottom: 4px solid #d8cefe;
+
+}
+.info{
+  text-align: center;
+  color:black
+}
